@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/color_id"
+        android:icon="@drawable/color_palette"
+        android:title="@string/color"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/clear_id"
+        android:orderInCategory="0"
+        android:title="@string/clear" />
+    <item
+        android:id="@+id/save_id"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="@string/save" />
+    <item
+        android:id="@+id/line_width"
+        android:icon="@drawable/stroke_width"
+        android:title="@string/line_width"
+        app:showAsAction="always" />
+    <!--<item-->
+        <!--android:id="@+id/erase_id"-->
+        <!--android:icon="@android:drawable/ic_notification_clear_all"-->
+        <!--android:title="@string/erase"-->
+        <!--app:showAsAction="always" />-->
+
+</menu>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Picasso</string>
+    <string name="color">Color</string>
+    <string name="save">Save</string>
+    <string name="line_width">Line width</string>
+    <string name="erase">Erase</string>
+    <string name="clear">Clear</string>
+    <string name="set_width">Set width</string>
+    <string name="alpha">Alpha</string>
+    <string name="label_red">Red</string>
+    <string name="label_green">Green</string>
+    <string name="label_blue">Blue</string>
+    <string name="set_color">Set color</string>
+</resources>
